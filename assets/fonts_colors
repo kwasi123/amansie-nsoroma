@@ -1,0 +1,24 @@
+/* Colors */
+// primary color: #7046F0
+// secondary color: #3438D9
+// gradient: #3438D9, #BF33FD
+// black 90: #000000 .90
+// black 75: #000000 .75
+// black 50: #000000 .50
+// black 25: #000000 .25
+// black 15: #000000 .10
+// gray: #EDEDED
+// success: #56E76E
+// error: #F64242
+
+
+/* Font Style */
+// Heading 1: 68px (400) (Oswald)
+// Heading 2: 51px (400) (Oswald)
+// Heading 3: 38px (300) (Oswald)
+// Heading 4: 29px (400) (Oswald)
+// Heading 5: 22px/ 150.2% (400) (Oswald)
+// Heading 6: 16/146.2% (400) (Oswald)
+
+// Paragraph Text: 16/148.2% (400) (open sans)
+// Paragraph Text Bold: 16/148.2% (700) (open sans)
